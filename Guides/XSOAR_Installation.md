@@ -1,4 +1,4 @@
-# Palo Alto XSOAR Installion
+# Palo Alto XSOAR Installation
 This is a guide for installation of XSOAR on prem. The installation guide and support from Palo wasn't 
 very... supportive, so myself and a coworker figured it out through trial and error. The guide assumes you're
 installing in a STIG environment, but not with FIPS. The hardware we used will probably differ from yours, 
