@@ -36,7 +36,7 @@ Based on your type of environment, follow similar recommendations for hardware a
   - /var/lib/docker: 70GB
 
 We installed with the plan of using Podman. Follow whatever guidelines you need to for other RHEL partitioning,
-such as DISA STIG requirements, along with the basic necessaties for a RHEL install.
+such as DISA STIG requirements, along with the basic necessities for a RHEL install.
 
 ## Signed Installer and Key
 You will need to contact Palo for the proper signed public key, as they haven't updated it and the URL they provide
