@@ -10,6 +10,12 @@
     </td>
     <td>Installation guide for Palo Alto XSOAR on your own hardware, on prem.</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/PudgyDragon/XSOAR/blob/main/Guides/custom_ssl.md">Custom SSL</a>
+    </td>
+    <td>Quick guide to apply a custom SSL certificate to your XSOAR server.</td>
+  </tr>
 </table>
 
 <h2>Troubleshooting</h2>
