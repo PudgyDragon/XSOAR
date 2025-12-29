@@ -5,6 +5,14 @@ installing in a STIG environment, but not with FIPS. The hardware we used will p
 but it *should* work just the same. If not, well... I'm sorry? I guess. Also, the guide assumes that you
 are using root permissions with `sudo su` from the beginning, because what even is best security practices?
 
+### IMPORTANT
+If you are installing in a STIG environment, to be 100% compliant, during the RHEL installation do the following:
+```
+Press e at the grub menu
+Add fips=1 after "quiet" or "rhbg"
+Ctrl + x to save and boot
+```
+
 ## Software Versions
 For this install, it will be based off using RHEL 9.6 and Palo XSOAR version 6.14
 
